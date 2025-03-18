@@ -1,0 +1,17 @@
+
+*{
+    font-familt:"Arial";
+}
+h1{
+    color:#b92b27;
+}
+h3{
+    color:purple;
+}
+#login{
+    background-color:#4dbac6;
+    color:rgb(31, 83, 88);
+    padding:    10px 20px;
+    border-radius:5px;
+
+}
